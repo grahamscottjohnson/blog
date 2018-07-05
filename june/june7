@@ -1,0 +1,6 @@
+Express.static doesn't look at parent directories.
+Express doesn't load elements from the pages it loads (index.html good, index --> src = ../something.js) (but it can if ../ is still at expres.static)
+Use nested flexboxes to center (paint backgrounds and borders) or good margins
+mousedown is not a streamed event (it's not a while). when the mouse goes down, it fires once.
+Read some YDKJS.
+select is a cool html element
